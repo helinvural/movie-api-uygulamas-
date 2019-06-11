@@ -1,5 +1,8 @@
 # movie-api-uygulamas-
 Node JS Movie Api
+
+# Movie
+
 | Route | HTTP Verb | POST body | Description |
 | --- | --- | --- | --- |
 | /api/movies | `GET` | Empty | List all movies. |
